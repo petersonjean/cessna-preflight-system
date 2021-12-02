@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>/home/petersonjean45/Documents/Swansea_University/Modules/CSCM13 High integrity and Critical systems/criticalhighintegritysystems/sparkAdaCodeLecture/misc/exampleOfSmallCriticalSystem/main.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/petersonjean45/Documents/Swansea_University/Modules/CSCM13 High integrity and Critical systems/criticalhighintegritysystems/sparkAdaCodeLecture/misc/exampleOfSmallCriticalSystem/main.gpr</vfs_project>
+      <vfs_file>/home/petersonjean45/Documents/Swansea_University/Modules/CSCM13 High integrity and Critical systems/criticalhighintegritysystems/sparkAdaCodeLecture/misc/exampleOfSmallCriticalSystem/main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/home/petersonjean45/Documents/Swansea_University/Modules/CSCM13 High integrity and Critical systems/criticalhighintegritysystems/sparkAdaCodeLecture/misc/exampleOfSmallCriticalSystem/main.gpr</vfs_project>
+      <vfs_file>/home/petersonjean45/Documents/Swansea_University/Modules/CSCM13 High integrity and Critical systems/criticalhighintegritysystems/sparkAdaCodeLecture/misc/exampleOfSmallCriticalSystem/cooling_system_nuclear_power.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,9 @@
+*.o
+*.ali
+*.stderr
+*.stdout
+**/gnatprove/ 
+#!.gitignore 
+*.bexch
+**/saved_runs/
+*.yaml
